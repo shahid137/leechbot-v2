@@ -1,37 +1,10 @@
-![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
-
-## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
-
-![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
-
-## **Don't Kill Heroku please ☹️**
-
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
 
 
 
-# Benefits :-
-    ✓ Google Drive link cloning using gclone.(wip)
-    ✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
-    ✓ Drive/Teamdrive support/All other cloud services rclone.org supports
-    ✓ Unzip
-    ✓ Unrar
-    ✓ Untar
-    ✓ Custom file name
-    ✓ Custom commands
-    ✓ Get total size of your working cloud directory
-    ✓ You can also upload files downloaded from /ytdl command to gdrive using `/ytdl gdrive` command.
-    ✓ You can also deploy this on your VPS
-    ✓ Option to select either video will be uploaded as document or streamable
-    ✓ Added /renewme command to clear the downloads which are not deleted automatically.
-    ✓ Added support for youtube playlist 😐
-    ✓ Renaming of Telegram files support added. 😐
-    ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
-    ✓
 
-[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/MaxxRiderz) 👇
 
-##### Mandatory Variables
+
+# Mandatory Variables
 
 * `TG_BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 
@@ -44,7 +17,7 @@
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 
-[![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/MaxxBots)
+
 
 ##### Optional Configuration Variables
 
@@ -150,20 +123,10 @@
 ➢ `/status`
 
 
-[![Maxx](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/MaxxBotChat)
-
-🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
-
-## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://GitHub.com/MaxxRider/About-Leech)
 
 
-🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
 
 
-<p><a href="https://github.com/MaxxRider/Leech-Pro/wiki/Deploy-To-Heroku"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
-
-
-[![MaxxRider](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/MaxxRiderz)
 
     
 ## CREDITS
