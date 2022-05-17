@@ -2,7 +2,7 @@ import asyncio
 
 async def rip_owner_msg(message):
 
-  if message in not None:
+  if message is not None:
 
     if message.text.lower().startswith("@The_Fourth_Minato"):
 
