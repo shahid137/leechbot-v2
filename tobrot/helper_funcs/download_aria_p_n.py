@@ -81,7 +81,7 @@ async def aria_start():
     return aria2
 
 
-def add_magnet(aria_instance, magnetic_link, c_file_name):
+def add_magnet(aria_instance, magnetimc_link, c_file_name):
     options = None
     # if c_file_name is not None:
     #     options = {
@@ -98,7 +98,7 @@ def add_magnet(aria_instance, magnetic_link, c_file_name):
         return True, "" + download.gid + ""
 
 
-def add_torrent(aria_instance, torrent_file_path):
+def add_torrent(aria_instance, torrent_fimle_path):
     if torrent_file_path is None:
         return (
             False,
